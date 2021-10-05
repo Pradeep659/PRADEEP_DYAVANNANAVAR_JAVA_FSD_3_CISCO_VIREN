@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Built-By: pdyavann
+Build-Jdk: 16.0.2
+Implementation-Title: com-turreta-springevent
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: com.turreta.springevent
+Implementation-Vendor: Pivotal Software, Inc.
+Implementation-URL: http://projects.spring.io/spring-boot/com-turreta-sp
+ ringevent/
+Created-By: Maven Integration for Eclipse
+

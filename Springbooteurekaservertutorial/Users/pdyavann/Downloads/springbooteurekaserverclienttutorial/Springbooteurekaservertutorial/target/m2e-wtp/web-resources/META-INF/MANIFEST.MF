@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Built-By: pdyavann
+Build-Jdk: 16.0.2
+Implementation-Title: Springboot eureka server tutorial
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: jcg.tutorial
+Implementation-Vendor: Pivotal Software, Inc.
+Created-By: Maven Integration for Eclipse
+
